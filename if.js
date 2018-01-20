@@ -11,3 +11,5 @@ if (n <= getIt) {
   else if (n >= getIt) {
     console.log("nah, ah!")
   }
+
+var getIt(n) {
