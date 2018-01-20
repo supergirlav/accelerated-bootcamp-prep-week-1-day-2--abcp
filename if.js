@@ -6,5 +6,8 @@ if (pokemon == "Pikachu") {
 
 var getIt = "10"
 
-if (getIt =="10") {
-  console.log()
+if (n <= getIt) {
+  console.log("n")}
+  else if (n >= getIt) {
+    console.log("")
+  }
