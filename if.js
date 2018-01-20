@@ -9,5 +9,5 @@ var getIt = "10"
 if (n <= getIt) {
   console.log("n")}
   else if (n >= getIt) {
-    console.log("")
+    console.log("nah, ah!")
   }
